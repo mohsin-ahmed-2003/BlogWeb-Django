@@ -36,7 +36,7 @@ You should see output in your terminal indicating that the server has started, u
 **8. Access the Blog in Your Browser:** <br>
 Open your web browser and navigate to the address provided by the runserver command (usually http://127.0.0.1:8000/).<br>
 # OUTPUT <br>
-<br>
+
 ![WB1](https://github.com/user-attachments/assets/62d52c99-46ff-40e7-9b8e-1d68daafc2c7)
 <br>
 # Access the Admin Interface
@@ -74,13 +74,17 @@ when you click on any page the blog detail page will be opened:
 **OUTPUT FOR CONTACT FORM**
 <br>
 <br>
+
 ![image](https://github.com/user-attachments/assets/87b7c13e-bef4-42bd-afaa-6d8582a775d5)
+
 <br>
 <br>
 After sending Message succesfully the alert is shown at the top of the page with successfully sent message!
 <br>
 <br>
+
 ![WB4](https://github.com/user-attachments/assets/aacd2ca2-4a51-43f0-ae24-244b7a48fb41)
+
 <br>
 <br>
 
