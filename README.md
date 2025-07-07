@@ -88,4 +88,4 @@ After sending Message succesfully the alert is shown at the top of the page with
 <br>
 <br>
 
-**NOTE: For Any query contact me**
+**NOTE: For Any query contact me...**
